@@ -1,0 +1,24 @@
+
+h1{
+color:rgb(182, 210, 221)
+}
+ *{
+     border:solid
+ }
+  .header{background-color: blueviolet;
+    display:flex;
+justify-content:space-between
+  }
+   .grid{display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+   }     
+        .FOOTER{
+            display: flex;
+            justify-content: flex-end;
+        }
+        body{
+            background-color: 
+            #808080;
+        }
